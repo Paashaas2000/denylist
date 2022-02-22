@@ -89,7 +89,7 @@ filter data.
 
 4. Request signatures from multisig members in the PR
 
-5. Once enough signatures gave been provided, verify the manifest using:
+5. Once enough signatures have been provided, verify the manifest using:
 
    ```shell
    $ xorf-generator manifest verify --input denylist.csv
